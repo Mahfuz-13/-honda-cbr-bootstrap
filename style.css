@@ -15,3 +15,9 @@
 .txt-clr-2{
     color: #E76F51;
 }
+.gray{
+    filter: grayscale(100%);
+}
+.box{
+    width: 332px;
+}
